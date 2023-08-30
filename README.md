@@ -5,4 +5,5 @@ The main aim of the project is to build KN3B classifier [1] on a new dataset to 
 The report of the project is demonstrated in the "FinalReport.pdf" file.
 
 References:
+
 [1] A. Saleh, A. Rabie and K. Abo-Al-Ez, "A data mining based load forecasting strategy for smart electrical grids" in Advanced Engineering Informatics, vol. 30, no. 3, pp. 422-448, 2016. doi: 10.1016/j.aei.2016.05.005.
